@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uzawooto.github.io/Kfb/sitemap_index.txt
+Sitemap: https://uzawooto.github.io/LRj/sitemap_index.txt
+Sitemap: https://uzawooto.github.io/cgM/sitemap_index.txt
+Sitemap: https://uzawooto.github.io/ubg/sitemap_index.txt
